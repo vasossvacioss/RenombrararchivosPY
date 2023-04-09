@@ -20,7 +20,7 @@ def seleccionar_directorio():
     entry_directorio.insert(0, directorio)
 
 def abrir_direccion():
-    webbrowser.open("https://vasossvacioss.github.io/portafolio3/")
+    webbrowser.open("https://github.com/vasossvacioss/RenombrararchivosPY.git")
 
 root = tk.Tk()
 root.title("Renombrar archivos")
